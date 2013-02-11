@@ -1,3 +1,9 @@
+I keep meaning to rewrite parts of this library to be more friendly and faster.  I have not done that yet.
+
+=========
+
+
+--
 UIImage Image Processing extensions using the vDSP/Accelerate framework. 
 
 Fast Image Blur/Sharpen/Emboss/Matrix operations for UIImage. 
